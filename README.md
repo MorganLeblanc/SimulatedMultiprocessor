@@ -17,3 +17,5 @@ Processes are aged every 2 seconds.
 When one processor finishes with all of it's processes, it simulates load balancing by taking over processes from the othe rprocessor.
 
 Each step of the simulation is printed to the console. When all processes are finished, the program exits.
+
+Created for CS 440 2018
